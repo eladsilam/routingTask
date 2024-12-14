@@ -1,0 +1,42 @@
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      h1 {
+        font-size: 1rem;
+        color:navy
+      }
+      h2 {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        color:navy;
+      }
+      body {
+        text-align: center;
+        margin: auto;
+        background-color: lightblue;
+        max-width: 40%;
+        padding: auto;
+      }
+      footer {
+        justify-content: end;
+        margin-top: 10rem;
+        color: blue;
+      }
+      .container {
+        margin: 2rem auto;
+        padding: 0 auto;
+        background-color: black;
+        max-width: 40%;
+      }
+      .firstP {
+        background-color: gray;
+      }
+      .secondP {
+        background-color: white;
+      }
+      .thirdP {
+        background-color: yellow;
+        font-size: 2rem;
+      }
